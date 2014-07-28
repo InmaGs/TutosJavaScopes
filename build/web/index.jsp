@@ -25,6 +25,7 @@
         <p>
             <a href="datosScopesInterfaces.jsp">Datos</a>
             <a href="datosScopesActionContext.jsp">Datos Action</a>
+            <a href="datosScopesServletActionContext.jsp">Datos Servlet</a>
         </p>
     </body>
 </html>
