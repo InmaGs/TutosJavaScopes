@@ -65,6 +65,7 @@ public final class index_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("            <a href=\"datosScopesInterfaces.jsp\">Datos</a>\n");
       out.write("            <a href=\"datosScopesActionContext.jsp\">Datos Action</a>\n");
       out.write("            <a href=\"datosScopesServletActionContext.jsp\">Datos Servlet</a>\n");
+      out.write("            <a href=\"datosServletsInterfaces.jsp\">Obtener Datos</a>\n");
       out.write("        </p>\n");
       out.write("    </body>\n");
       out.write("</html>\n");
